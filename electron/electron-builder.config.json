@@ -10,7 +10,8 @@
     "app/**/*"
   ],
   "publish": {
-    "provider": "github"
+    "provider": "github",
+    "token": "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"
   },
   "nsis": {
     "allowElevation": true,
